@@ -1,0 +1,10 @@
+{
+  "name": "DiscordReportBot",
+  "version": "0.1",
+  "description": "Reporting",
+  "main": "index.js",
+  "repository": "https://github.com/opalecky/DiscordReportBot.git",
+  "author": "adam@opalecky.cz",
+  "license": "MIT",
+  "private": false
+}
